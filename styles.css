@@ -17,3 +17,7 @@ td {
     border: 1px solid black;
     border-collapse: collapse;
 }
+img {
+    width:400px;
+    height:auto;
+}
