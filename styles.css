@@ -1,0 +1,15 @@
+.center {
+    font-family:sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+}
+ul {
+    text-align:center;
+    list-style-position: inside;
+}
+table {
+    text-align:center;
+    table-layout: auto;
+}
